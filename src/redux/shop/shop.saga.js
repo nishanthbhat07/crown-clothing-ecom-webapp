@@ -2,7 +2,7 @@ import ShopActionTypes from "./shop.types";
 import {
   firestore,
   convertCollectionSnapshotToMap,
-} from "../../firebase/firebase.utils";
+} from "../../Firebase/firebase.utils";
 import { takeLatest, call, put, all } from "redux-saga/effects";
 
 import {
