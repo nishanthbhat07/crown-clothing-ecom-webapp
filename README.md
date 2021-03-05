@@ -7,6 +7,7 @@ To built a clothing web-app using ReactJS and firebase as a back-end service.
 
 These are the following features:
 <li>User can create a new account or login for existing users.</li>
+<li>Easy signup using google account</li>
 <li>User can buy clothes, shoes, and other accessories</li>
 <li>Responsive in nature</li>
 <li>Add items to cart</li>
@@ -17,13 +18,13 @@ These are the following features:
 ## Installation
 
  1. Git clone this repository or download as zip.
- 2. Open terminal in windows/macos/ubuntu and install all packages using following command in the folder where package.json is located:
- <code>yarn install</code>
- This will install all the packages in the package.json file. If you're using npm then 
- <code>npm install</code>
+ 2. Open terminal in windows/macos/ubuntu and install all packages using following command in the folder where package.json is located:<br>
+ <code>yarn install</code><br>
+ This will install all the packages in the package.json file. If you're using npm then <br>
+ <code>npm install</code><br>
  3. After installing all the packages, you're good to run the app and serve it on localhost 3000.
- 4. Run the following 
-	 <code>yarn start</code>
+ 4. Run the following <br>
+	 <code>yarn start</code><br>
 
 ## Website
 To view this website, you can view it here!
